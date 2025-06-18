@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Release">
+      <UniqueIdentifier>{fc869fca-955c-44fd-a3ff-962719ea2dba}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -23,5 +26,13 @@
     <ClInclude Include="main.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="x64\Release\Name_Battle_Tournament.exe">
+      <Filter>Release</Filter>
+    </None>
+    <None Include="x64\Release\Name_Battle_Tournament.pdb">
+      <Filter>Release</Filter>
+    </None>
   </ItemGroup>
 </Project>
