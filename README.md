@@ -5,7 +5,7 @@ It is a program in the form of picking one of the characters created and fightin
 Since it is made with inexperienced skills, a bug occurs when a value other than an integer is entered.
 Please enter only the necessary values according to the narration.
 
-How to use: Click the x64/Release folder >> Download exe >> Play
+How to use : Click the x64/Release folder >> Download exe >> Play
 
 *Debugging/update is unlikely in the future.
 
@@ -31,6 +31,6 @@ How to use: Click the x64/Release folder >> Download exe >> Play
 경험이 부족한 기술로 만들어졌기 때문에 정수가 아닌 값을 입력하면 버그가 발생합니다.
 내레이션에 따라 필요한 값만 입력해 주세요.
 
-사용 방법: x64/해제 폴더를 클릭 >> exe 다운로드 >> 플레이
+사용 방법 : x64/해제 폴더를 클릭 >> exe 다운로드 >> 플레이
 
 *디버깅/업데이트는 앞으로 거의 없을 것입니다.
