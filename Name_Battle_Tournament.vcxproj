@@ -133,8 +133,8 @@
     <ClInclude Include="main.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="x64\Release\Name_Battle_Tournament.exe" />
-    <None Include="x64\Release\Name_Battle_Tournament.pdb" />
+    <None Include=".gitattributes" />
+    <None Include=".gitignore" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
